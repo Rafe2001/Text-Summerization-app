@@ -49,9 +49,9 @@ Follow these steps to run the Text Summarization Web App on your local machine:
 
    In the app's web interface, enter or paste the text you want to summarize into the input field.
 
-7. **Click "Analyze":**
+7. **Click "Submit":**
 
-   After entering the text, click the "Analyze" button to start the summarization process.
+   After entering the text, click the "Submit" button to start the summarization process.
 
 8. **View Summary:**
 
