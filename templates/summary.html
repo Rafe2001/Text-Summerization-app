@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Summarizer</title>
+    <link rel="stylesheet" href="static/static.css"> <!-- Add a link to your CSS file here -->
+</head>
+<body>
+    <header>
+        <h1>Text Summarizer</h1>
+    </header>
+    <main>
+        <section id="original-text">
+            <div id="original-text">
+                <h2>Original Text</h2>
+                <div id="original-content">{{ raw_text }}</div>
+                <p>Original Text Length: {{ raw_word_count }} words</p>
+            </div>
+            <div id="summarized-text">
+                <h2>Summarized Text</h2>
+                <div id="summarized-content">{{ final_summary }}</div>
+                <p>Summary Length: {{ summary_word_count }} words</p>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
