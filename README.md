@@ -90,6 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to [Flask](https://flask.palletsprojects.com/) for making it easy to create web applications.
 - [spaCy](https://spacy.io/) is used for natural language processing tasks in this project.
 
----
-
-Replace the placeholders with your actual project details, customize the README as needed, and ensure that you have included all the relevant information for users and potential contributors.
